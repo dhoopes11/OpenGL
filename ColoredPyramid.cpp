@@ -1,9 +1,9 @@
 //============================================================================
-// Name        : Module4Resubmit.cpp
+// Name        : 
 // Author      : Danielle Hoopes
 // Version     :2
 
-// Description : Hello World in C++, Ansi-style
+// Description : OpenGL Colored Pyramid, glew, freeglut, glm libraries used
 //============================================================================
 
 #include <iostream>
